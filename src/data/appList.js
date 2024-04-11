@@ -4,7 +4,7 @@ export const appList = [
         "avatarUrl": "https://sg-res.9appsdownloading.com/sg/res/jpg/a4/f4/7058be3c92728636f57da687fcd8-50k.jpg?x-oss-process=style/mq200",
         "avatarFallback": "FM",
         "description": "Resuelve problemas de matemáticas con AI, cubriendo desde aritmética hasta cálculo. Proporciona explicaciones paso a paso, gráficos y videos. Perfecto para tareas.",
-        "appUrl": "https://apps.apple.com/es/app/fastmath-tomar-foto-resolver/id1438642238",
+        "appUrl": "https://play.google.com/store/apps/details?id=com.ittentechnologies.takephotoandsolvefastmath&hl=es_MX&gl=US",
         "excercisePath": "ejercicios/app-1"
     },
     {
@@ -19,7 +19,7 @@ export const appList = [
         "title": "Cymath",
         "avatarUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/50/2d/f0/502df0ba-f921-64b3-f8cf-3047236214cd/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/512x512bb.jpg",
         "avatarFallback": "CY",
-        "description": "Solucionador matemático usa IA y heurística para resolver problemas paso a paso, como un profesor.",
+        "description": "Solucionador matemático online que usa IA y heurística para resolver problemas paso a paso, como un profesor.",
         "appUrl": "https://www.cymath.com/sp",
         "excercisePath": "ejercicios/app-3"
     },
