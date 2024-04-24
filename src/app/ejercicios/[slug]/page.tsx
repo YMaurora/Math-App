@@ -37,6 +37,10 @@ export default function EjerciciosTemplate({
             {`Ejercicios con ${page?.name}`}
           </h1>
           <CardExerciseLayout dataArray={page?.list} />
+
+          <h1 className="scroll-m-20 text-4x1 font-extrabold tracking-tight lg:text-5xl text-center">
+            Ejemplo de uso
+          </h1>
         </div>
       </main>
     </>

@@ -28,7 +28,7 @@ export const appList = [
         "avatarUrl": "https://play-lh.googleusercontent.com/swH8ta0_-CeWr7vK_Q6vuNA-ghE3g5w9RkXf6EPM29cUdfAzny0fM0NeZGcTbcHNSg",
         "avatarFallback": "PS",
         "description": "Escanear, resolver, aprender. Sustituye tutores costosos, apoyo en todo tipo de preguntas. Revisión de tareas con explicaciones detalladas.",
-        "appUrl": "https://picsolve.ai/",
+        "appUrl": "https://play.google.com/store/apps/details?id=ai.picsolve&hl=es_MX&gl=US",
         "excercisePath": "ejercicios/app-4"
     },
     {
@@ -61,7 +61,7 @@ export const appList = [
         "avatarFallback": "RM",
         "description": "Juego dinámico, muy divertido y con múltiples problemas sobre diferentes temas matematicos.",
         "appUrl": "https://play.google.com/store/apps/details?id=com.oddrobo.komj&hl=es&gl=US",
-        "excercisePath": "ejercicios/app-8"
+        "excercisePath": ""
     },
     {
         "title": "Microsoft Math SOLVER",
@@ -92,7 +92,7 @@ export const appList = [
         "avatarUrl": "https://play-lh.googleusercontent.com/S_J6j_4P8ieE6c-kO4vhXcVQpTYtYdHaTapcSHSuiYIrYaVaYCZbdXZ0sprR-ffrag",
         "avatarFallback": "ST",
         "description": "Es un método online para que los niños de 4 a 14 años aprendan y dominen las matemáticas, desde su casa, y dedicando sólo 15 minutos cada día. Para usar Smartick solo se necesita un PC o una Tablet con conexión a Internet.",
-        "appUrl": "https://play-lh.googleusercontent.com/S_J6j_4P8ieE6c-kO4vhXcVQpTYtYdHaTapcSHSuiYIrYaVaYCZbdXZ0sprR-ffrag",
+        "appUrl": "https://mx.smartickmethod.com/",
         "excercisePath": ""
     },
     {
@@ -109,7 +109,7 @@ export const appList = [
         "avatarFallback": "SO",
         "description": "Es una app de Google, ayuda a estudiantes universitarios y de bachillerato a entender su trabajo académico. Utilizando inteligencia artificial y búsqueda de Google, conecta a los alumnos con recursos educativos en la web y YouTube para facilitar el aprendizaje.",
         "appUrl": "https://play.google.com/store/apps/details?id=com.google.socratic&hl=es&gl=US",
-        "excercisePath": ""
+        "excercisePath": "ejercicios/app-14"
     },
     {
         "title": "Samarth Mathematics ",
@@ -157,6 +157,6 @@ export const appList = [
         "avatarFallback": "GM",
         "description": "Es una app para resolver problemas matemáticos con respuestas instantáneas y acceso a tutores. Ahorra tiempo, brinda retroalimentación inmediata y motiva a los estudiantes, aunque no reemplaza el aprendizaje manual y la comprensión profunda de los conceptos.",
         "appUrl": "https://www.gauthmath.com/",
-        "excercisePath": ""
+        "excercisePath": "ejercicios/app-20"
     },  
 ]

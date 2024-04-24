@@ -3,6 +3,7 @@ export const ejerciciosList = [
         key:"app-1",
         name:"FastMath",
         list:[
+            
             {
                 type:"Algebra",
                 exercise:[
@@ -13,6 +14,12 @@ export const ejerciciosList = [
                     "Ejercicio 2:",
                     "Resolver la siguiente expresión: 3x^2 - 12",
                     ""
+                ]
+            },
+            {
+                type:"Calculo",
+                exercise:[
+                    "Ejercicio 1: "
                 ]
             },
         ]
@@ -98,8 +105,54 @@ export const ejerciciosList = [
 
     },
     {
-        key:"app-5",
-        name:"Algebrator",
+        key:"app-7",
+        name:"Photomath",
+        list:[
+            {
+                type:"Algebra",
+                exercise:[
+                    "Ejercicio 1: y = 5x",
+                    "Nota: Toma la foto al ejercicio",
+                    "Resultado esperado: y = 5x para x es x = y/5.",
+                ]
+            },
+        ]
+
+    },
+    {
+        key:"app-9",
+        name:"Microsoft Math SOLVER",
+        list:[
+            {
+                type:"Algebra",
+                exercise:[
+                    "Ejercicio 1: 12a + 3 = 9",
+                    "Resultado de la ecuación: 12a + 3 = 9 es a = 1/2.",
+                ]
+            },
+        ]
+
+    },
+    {
+        key:"app-10",
+        name:"Calculadora gráfica + Math",
+        list:[
+            {
+                type:"Algebra",
+                exercise:[
+                    "Ejercicio 1: y = 2x + 3",
+                    "Solucion de la ecuación: y = 2x + 3 para x es x=y - 3/2.",
+                    "",
+                    "Ejercicio 2: X^2-4x+4=0",
+                    "Solución de la ecuación x^2 - 4x + 4 = 0 es x = 2"
+                ]
+            },
+        ]
+
+    },
+    {
+        key:"app-11",
+        name:"GeoGebra",
         list:[
             {
                 type:"Algebra",
@@ -111,8 +164,8 @@ export const ejerciciosList = [
 
     },
     {
-        key:"app-5",
-        name:"Algebrator",
+        key:"app-12",
+        name:"Smartick",
         list:[
             {
                 type:"Algebra",
@@ -124,13 +177,110 @@ export const ejerciciosList = [
 
     },
     {
-        key:"app-5",
-        name:"Algebrator",
+        key:"app-13",
+        name:"Fórmulas Free",
         list:[
             {
                 type:"Algebra",
                 exercise:[
                     "",
+                ]
+            },
+        ]
+
+    },
+    {
+        key:"app-14",
+        name:"Socratic",
+        list:[
+            {
+                type:"Algebra",
+                exercise:[
+                    "Ejercicio 1: 3x-10=5",
+                    "Solución de la ecuación 3x - 10 = 5 es x = 5.",
+                    "",
+                    "Ejercicio 2: 4y+8=20 ",
+                    "Solución de la ecuación 4y + 8 = 20 es y = 3."
+                ]
+            },
+        ]
+
+    },
+    {
+        key:"app-15",
+        name:"Samarth Mathematics",
+        list:[
+            {
+                type:"Algebra",
+                exercise:[
+                    "",
+                ]
+            },
+        ]
+
+    },
+    {
+        key:"app-16",
+        name:"MexAlgebra.xyz",
+        list:[
+            {
+                type:"Algebra",
+                exercise:[
+                    "",
+                ]
+            },
+        ]
+
+    },
+    {
+        key:"app-17",
+        name:"MalMath",
+        list:[
+            {
+                type:"Algebra",
+                exercise:[
+                    "",
+                ]
+            },
+        ]
+
+    },
+    {
+        key:"app-18",
+        name:"iMathematics!",
+        list:[
+            {
+                type:"Algebra",
+                exercise:[
+                    "",
+                ]
+            },
+        ]
+
+    },
+    {
+        key:"app-19",
+        name:"QANDA",
+        list:[
+            {
+                type:"Algebra",
+                exercise:[
+                    "",
+                ]
+            },
+        ]
+
+    },
+    {
+        key:"app-20",
+        name:"Gauthmath",
+        list:[
+            {
+                type:"Algebra",
+                exercise:[
+                    "Ejercicio 1:",
+                    "Escanea con tu celular el ejercicio",
+                    "Solución de la ecuación: 3y + 6 = 15 es y = 3."
                 ]
             },
         ]
