@@ -248,7 +248,8 @@ export const ejerciciosList = [
                 path:"/geogebra2.jpg",
                 alt:"img 2"
             }
-        ]
+        ],
+        list:[]
 
     },
     {
