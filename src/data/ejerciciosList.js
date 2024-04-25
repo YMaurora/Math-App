@@ -1,25 +1,18 @@
 export const ejerciciosList = [
     {
         key:"app-1",
-
         examplesImageOfUseApp:[
             {
-                path:"/exampleimg.jpg",
+                path:"/fastmath1.jpg",
                 alt:"img 1"
             },
             {
-                path:"/exampleimg.jpg",
+                path:"/fastmath2.jpg",
                 alt:"img 2"
-            },
-            {
-                path:"/exampleimg.jpg",
-                alt:"img 3"
-            },
-
+            }
         ],
         name:"FastMath",
         list:[
-            
             {
                 type:"Algebra",
                 exercise:[
@@ -44,7 +37,14 @@ export const ejerciciosList = [
     {
         key:"app-2",
         examplesImageOfUseApp:[
-
+            {
+                path:"/mathway1.jpg",
+                alt:"img 1"
+            },
+            {
+                path:"/mathway2.jpg",
+                alt:"img 2"
+            }
         ],
         name:"Mathway",
         list:[
@@ -61,7 +61,14 @@ export const ejerciciosList = [
     {
         key:"app-3",
         examplesImageOfUseApp:[
-
+            {
+                path:"/cymath1.jpg",
+                alt:"img 1"
+            },
+            {
+                path:"/cymath2.jpg",
+                alt:"img 2"
+            }
         ],
         name:"Cymath",
         list:[
@@ -81,7 +88,14 @@ export const ejerciciosList = [
     {
         key:"app-4",
         examplesImageOfUseApp:[
-
+            {
+                path:"/picsolve1.jpg",
+                alt:"img 1"
+            },
+            {
+                path:"/picsolve2.jpg",
+                alt:"img 1"
+            }
         ],
         name:"PicSolve",
         list:[
@@ -101,7 +115,14 @@ export const ejerciciosList = [
     {
         key:"app-5",
         examplesImageOfUseApp:[
-
+            {
+                path:"/algebrator1.jpg",
+                alt:"img 1"
+            },
+            {
+                path:"/algebrator2.jpg",
+                alt:"img 2"
+            }
         ],
         name:"Algebrator",
         list:[
@@ -121,7 +142,18 @@ export const ejerciciosList = [
     {
         key:"app-6",
         examplesImageOfUseApp:[
-
+            {
+                path:"/mathpapa1.jpg",
+                alt:"img 1"
+            },
+            {
+                path:"/mathpapa2.jpg",
+                alt:"img 1"
+            },
+            {
+                path:"/mathpapa3.jpg",
+                alt:"img 1"
+            }
         ],
         name:"MathPapa",
         list:[
@@ -138,7 +170,14 @@ export const ejerciciosList = [
     {
         key:"app-7",
         examplesImageOfUseApp:[
-
+            {
+                path:"/photomath1.jpg",
+                alt:"img 1"
+            },
+            {
+                path:"/photomath2.jpg",
+                alt:"img 2"
+            }
         ],
         name:"Photomath",
         list:[
@@ -156,7 +195,14 @@ export const ejerciciosList = [
     {
         key:"app-9",
         examplesImageOfUseApp:[
-
+            {
+                path:"/microsoft1.jpg",
+                alt:"img 1"
+            },
+            {
+                path:"/microsoft2.jpg",
+                alt:"img 2"
+            }
         ],
         name:"Microsoft Math SOLVER",
         list:[
@@ -194,15 +240,14 @@ export const ejerciciosList = [
         key:"app-11",
         name:"GeoGebra",
         examplesImageOfUseApp:[
-
-        ],
-        list:[
             {
-                type:"Algebra",
-                exercise:[
-                    "",
-                ]
+                path:"/geogebra1.jpg",
+                alt:"img 1"
             },
+            {
+                path:"/geogebra2.jpg",
+                alt:"img 2"
+            }
         ]
 
     },
@@ -242,7 +287,14 @@ export const ejerciciosList = [
         key:"app-14",
         name:"Socratic",
         examplesImageOfUseApp:[
-
+            {
+                path:"/socratic1.jpg",
+                alt:"img 1"
+            },
+            {
+                path:"/socratic2.jpg",
+                alt:"img 2"
+            }
         ],
         list:[
             {
@@ -342,7 +394,14 @@ export const ejerciciosList = [
         key:"app-20",
         name:"Gauthmath",
         examplesImageOfUseApp:[
-
+            {
+                path:"/gauthmath1.jpg",
+                alt:"img 1"
+            },
+            {
+                path:"/gauthmath2.jpg",
+                alt:"img 2"
+            }
         ],
         list:[
             {

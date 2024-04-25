@@ -31,8 +31,8 @@ export default function EjerciciosTemplate({
   return (
     <>
       <Navbar
-        title="Mate App"
-        LogoUrl="https://cdn-icons-png.flaticon.com/512/7407/7407078.png"
+        title="MathApp"
+        LogoUrl="https://i.postimg.cc/WbR8y1DK/logo.png"
       />
       <main className="flex min-h-screen flex-col items-center sm:p-24 p-4">
         <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm flex flex-col">

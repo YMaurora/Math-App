@@ -39,7 +39,7 @@ export const CardApp = ({
         <AvatarFallback>{avatarFallback}</AvatarFallback>
       </Avatar>
       <div className="card--app--content">
-        <CardHeader className="p-0">
+        <CardHeader className="p-0 text-green-700">
           <CardTitle>{title}</CardTitle>
         </CardHeader>
         {description && (
@@ -48,9 +48,9 @@ export const CardApp = ({
           </CardContent>
         )}
         <CardFooter className="p-0 action-bar">
-          <Button onClick={handleOnPrimaryBtn}>{t("btn-primary")}</Button>
+          <Button className = "button-Open" onClick={handleOnPrimaryBtn}>{t("btn-primary")}</Button>
           {excercisePath && (
-            <Button onClick={handleOnSecundaryBtn} variant="outline">
+            <Button className="button-exercise" onClick={handleOnSecundaryBtn} variant="outline">
               {t("btn-secondary")}
             </Button>
           )}

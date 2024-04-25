@@ -18,10 +18,10 @@
   },
   "appcard":{
     "btn-primary":"Open",
-    "btn-secondary":"Excercise"   
+    "btn-secondary":"Exercises"   
   },
   "excercise":{
-    "title":"Excercise with",
+    "title":"Exercise with",
     "examples": "How to use the application?"
   }
 }

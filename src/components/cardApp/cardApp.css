@@ -16,6 +16,13 @@
         justify-content: flex-start;
         align-items: center;
         gap: 1rem;
+
+        .button-Open{
+            background-color: orange;
+        }
+        .button-exercise{
+            background-color: #ABEBC6 ;
+        }
     }
 }
 

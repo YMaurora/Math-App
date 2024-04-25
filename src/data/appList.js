@@ -85,7 +85,7 @@ export const appList = [
         "avatarFallback": "GE",
         "description": "El software interactivo combina geometría, álgebra, estadística y cálculo, siendo aplicable en física, proyecciones comerciales, estimaciones de decisiones estratégicas y diversas disciplinas.",
         "appUrl": "https://www.geogebra.org/?lang=es",
-        "excercisePath": ""
+        "excercisePath": "ejercicios/app-11"
     },
     {
         "title": "Smartick",
